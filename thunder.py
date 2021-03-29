@@ -4,4 +4,6 @@ if d1=='yes':
     print("make nip model")
     print("make nlp model")
 else:
-    print("try to learn data science")
+    d2=input("are you programmer?")
+    if d2=='yes':
+        print("welcome to community.")
