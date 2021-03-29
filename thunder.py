@@ -7,3 +7,4 @@ else:
     d2=input("are you programmer?")
     if d2=='yes':
         print("welcome to community.")
+        print("you can share your thoughts")
