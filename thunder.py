@@ -1,5 +1,5 @@
 d1=input("Are you a data Scientist?")
-if d1=='yes' or d1=='Y':
+if d1=='yes' or d1=='Y' or d1=='y':
     print("Make recommandation model")
     print("make nip model")
     print("make nlp model")
